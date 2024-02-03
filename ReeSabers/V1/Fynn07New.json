@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "UnixTimestamp": 1683665385,
+  "ExperimentalSettings": {
+    "UseDefaultSaberModel": false,
+    "MotionBlur": true,
+    "VisualZOffset": 0.0,
+    "Thickness": 0.69
+  },
+  "SaberSettings": {
+    "HiltColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 0.0,
+      "a": 1.0
+    },
+    "TipColor": {
+      "r": 0.0,
+      "g": 0.5,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "Glow": 0.69
+  },
+  "TipTrailMeshSettings": {
+    "TrailLength": 15,
+    "HorizontalResolution": 1,
+    "VerticalResolution": 120
+  },
+  "TipTrailMaterialSettings": {
+    "TipTrailStartColor": {
+      "r": 0.0,
+      "g": 0.5,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "TipTrailFadeColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 0.0,
+      "a": 1.0
+    },
+    "TipTrailGlow": 1.0,
+    "TipTrailThickness": 0.015
+  },
+  "BladeTrailMeshSettings": {
+    "TrailLength": 15,
+    "HorizontalResolution": 5,
+    "VerticalResolution": 60
+  },
+  "BladeTrailMaterialSettings": {
+    "HiltColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 0.0,
+      "a": 1.0
+    },
+    "TipColor": {
+      "r": 0.0,
+      "g": 0.5,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "BladeTrailGlow": 0.8,
+    "BladeTrailFromOffset": 1.0,
+    "BladeTrailToOffset": -0.5
+  },
+  "ParticlesMeshSettings": {
+    "ParticlesCount": 12000,
+    "HorizontalResolution": 1,
+    "VerticalResolution": 10,
+    "TrailLength": 5
+  },
+  "ParticlesMaterialSettings": {
+    "SparkStartColor": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 0.0,
+      "a": 1.0
+    },
+    "SparkFadeColor": {
+      "r": 0.0,
+      "g": 0.5,
+      "b": 1.0,
+      "a": 0.0
+    },
+    "TailStartColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "TailFadeColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 1.0,
+      "a": 0.2
+    },
+    "HaloIntensity": 0.1,
+    "HaloGlow": 0.6,
+    "SparkIntensity": 0.5,
+    "SparkGlow": 0.8,
+    "ParticleWidth": 0.032
+  },
+  "ParticlesSpawnSettings": {
+    "MinimalLifetime": 0.2,
+    "MaximalLifetime": 0.4,
+    "BurstCount": 1024.0,
+    "BurstRatio": 0.8
+  }
+}
