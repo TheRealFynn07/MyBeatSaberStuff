@@ -1,0 +1,34 @@
+{
+  "scenes": {
+    "Menu": [
+      "Main"
+    ],
+    "MultiplayerMenu": [
+      "Main"
+    ],
+    "Playing": [
+      "Main"
+    ],
+    "Playing360": [
+      "Main"
+    ],
+    "PlayingModmap": [
+      "Main"
+    ],
+    "PlayingMulti": [
+      "Main"
+    ],
+    "SpectatingMulti": [
+      "Main"
+    ],
+    "Replay": [
+      "Main"
+    ],
+    "FPFC": [
+      "fpfc"
+    ]
+  },
+  "customScenes": {},
+  "customSceneBindings": {},
+  "autoswitchFromCustom": false
+}
